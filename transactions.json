@@ -1,0 +1,23 @@
+[
+  {
+    "TransactionId": "TRX-1001",
+    "Date": "2026-10-20",
+    "Category": "Sales",
+    "Type": "Income",
+    "Amount": 1500000.00
+  },
+  {
+    "TransactionId": "TRX-1002",
+    "Date": "2026-10-21",
+    "Category": "Software License",
+    "Type": "Expense",
+    "Amount": 350000.00
+  },
+  {
+    "TransactionId": "TRX-1003",
+    "Date": "2026-10-22",
+    "Category": "Freelance Fee",
+    "Type": "Income",
+    "Amount": 2500000.00
+  }
+]

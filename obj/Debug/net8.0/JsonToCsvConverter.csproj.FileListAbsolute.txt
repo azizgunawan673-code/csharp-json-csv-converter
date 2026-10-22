@@ -1,0 +1,14 @@
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\bin\Debug\net8.0\JsonToCsvConverter.exe
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\bin\Debug\net8.0\JsonToCsvConverter.deps.json
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\bin\Debug\net8.0\JsonToCsvConverter.runtimeconfig.json
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\bin\Debug\net8.0\JsonToCsvConverter.dll
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\bin\Debug\net8.0\JsonToCsvConverter.pdb
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.AssemblyInfoInputs.cache
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.AssemblyInfo.cs
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.csproj.CoreCompileInputs.cache
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.dll
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\refint\JsonToCsvConverter.dll
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.pdb
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\JsonToCsvConverter.genruntimeconfig.cache
+C:\Kerja_Remote\Upwork\Active_Projects\JsonToCsvConverter\obj\Debug\net8.0\ref\JsonToCsvConverter.dll
